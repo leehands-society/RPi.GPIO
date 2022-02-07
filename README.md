@@ -12,5 +12,5 @@
 <br>
 <h2><span style="color: #3366ff;">Test</span></h2>
 <br>
-<p><strong><img src="https://www.leehands.com/wp-content/uploads/2022/02/20220208_Rpi.GPIO_2.jpg" alt="SmartwallClock" width="499" height="375" /></strong></p>
+<p><strong><img src="https://www.leehands.com/wp-content/uploads/2022/02/20220208_Rpi.GPIO_2.jpg" alt="SmartwallClock"/></strong></p>
 <br>Target Operating system is Banana Pi M2 Zero and Armbian buster (Linux 5.10.60.-sunxi) <b></b>
