@@ -1,9 +1,7 @@
 <br>update 2022.02.08 by leehands
 <br>
 <br>it's python library for handling GPIO (Banana Pi M2 Zero )
-<h2><span style="color: #3366ff;">ENVIRONMENTS</span></h2>
-<br>
-<br># RPi.GPIO
+<h2><span style="color: #3366ff;">RPi.GPIO</span></h2>
 <br>RPi.GPIO (A Python module to control the GPIO on a Raspberry Pi) for Banana Pi 
 <br># USAGE
 <br><code>pip3 install wheel</code>
