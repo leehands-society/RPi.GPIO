@@ -1,6 +1,6 @@
-<br><font size=5> update 2022.02.08 by leehands</font>
+<br>update 2022.02.08 by leehands
 <br>
-<br><font size=5> it's python library for handling GPIO (Banana Pi M2 Zero )</font>
+<br>it's python library for handling GPIO (Banana Pi M2 Zero )
 <br>
 <br># RPi.GPIO
 <br>RPi.GPIO (A Python module to control the GPIO on a Raspberry Pi) for Banana Pi 
